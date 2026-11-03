@@ -6,23 +6,29 @@ A este punto el archivo más actualizado es el code2, a la espera de la combinac
 
 
 ## Before starting
+verifica la version de python
 ```
-python.exe -m pip install --upgrade pip
+python -m pip install --upgrade pip
 ```
 
 ## Env file
-```
-copy con .env
-```
+
+cree el archivo .env siguiendo el modelo ".env-example"
 
 ## Setup
 
 en caso de no tener el arduino configurado aún carge el codigo de "arduino/load.ino"
 
-###### primera ejecución o reinicio
+###### primera ejecución o reinicio (terminal en carpeta del proyecto)
+Windows
 ```
 setup.bat
 ```
+Linux
+```
+setup.sh
+```
+
 ## Scheme
 
 diagrama de conexiones con Arduino
@@ -30,12 +36,21 @@ diagrama de conexiones con Arduino
 ![Scheme](https://github.com/pwsa80/Proyecto/blob/main/extradata/diagrama.png)
 
 ## Run code
+Windows
 ```
 .venv\Scripts\activate.bat
 ```
 ```
 python3 camera-system.py
 ```
+Linux
+```
+source .venv/bin/activate
+```
+```
+python camera-system.py
+```
+
 
 ## About us
 trabajamos en el proyecto de robotica del colegio sagrado corazón via pto colombia
