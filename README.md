@@ -66,3 +66,4 @@ los registros de todas nuestras actividades se encuentran en los blogs de cada u
 
 [![sergiopallares](https://img.shields.io/badge/Blog_Sergio_Pallares-150061?style=for-the-badge)](https://cafeteramovil1.blogspot.com/)
 
+test
