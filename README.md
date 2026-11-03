@@ -65,5 +65,3 @@ los registros de todas nuestras actividades se encuentran en los blogs de cada u
 [![valenthinaolmos](https://img.shields.io/badge/Blog_Valenthina_Olmos-610000?style=for-the-badge)](https://valenthinaolmos.blogspot.com/)
 
 [![sergiopallares](https://img.shields.io/badge/Blog_Sergio_Pallares-150061?style=for-the-badge)](https://cafeteramovil1.blogspot.com/)
-
-test
